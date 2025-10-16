@@ -1,4 +1,4 @@
-# Solutions to *Computational Physics* (Mark Newman, 2nd Edition)
+# Solutions to *Computational Physics*, M. Newman, 2nd Edition.
 
 This repository contains Python-based solutions to selected exercises from  
 **Mark Newman’s _Computational Physics, 2nd. Ed. (2012, CreateSpace)_**.
