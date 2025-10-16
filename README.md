@@ -1,9 +1,9 @@
 # Solutions to *Computational Physics*, M. Newman, 2nd Edition.
 
 This repository contains Python-based solutions to selected exercises from  
-**Mark Newman’s _Computational Physics, 2nd. Ed. (2012, CreateSpace)_**.
+**Mark Newman’s _Computational Physics, 2nd. Ed. (2012, CreateSpace)_** (https://websites.umich.edu/~mejn/cp2/).
 
-All code is written in Python 3 and tested in **Jupyter notebooks**.
+All the snippets are written in Python 3 and tested in **Jupyter notebooks**.
 
 ---
 
