@@ -8,7 +8,7 @@ All the snippets are written in Python 3 and tested in **Jupyter notebooks**.
 ---
 
 ## 📘 Contents
-- [Solutions Chapter 2 – Python programming for physicists](https://github.com/campos28/Solutions-to-Computational-Physics-2nd.-ed.---Newman-M.-CreateSpace-2012-/blob/main/newman_computational_physics_ch2_solutions.ipynb)
+- [Solutions Chapter 2 – Python programming for physicists](https://github.com/campos28/Solutions-to-Computational-Physics-2nd.-ed.---Newman-M.-CreateSpace-2012-/blob/main/newman_cp_solutions_chapter2.ipynb)
 - More chapters coming soon.
 
 ---
