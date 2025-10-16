@@ -8,7 +8,7 @@ All code is written in Python 3 and tested in **Jupyter notebooks**.
 ---
 
 ## 📘 Contents
-- [Chapter 2 – Python and the Basics](chapter2.ipynb)
+- [Chapter 2 – Python programming for physicists](chapter2.ipynb)
 - More chapters coming soon.
 
 ---
