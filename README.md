@@ -15,8 +15,7 @@ All the snippets are written in Python 3 and tested in **Jupyter notebooks**.
 ---
 
 ## 🧑‍🔬 Author
-Camilo Posada, PhD  
-Lecturer, Fundación Universitaria Konrad Lorenz  
+Camilo Posada, PhD
 https://inspirehep.net/authors/1340376
 
 ---
