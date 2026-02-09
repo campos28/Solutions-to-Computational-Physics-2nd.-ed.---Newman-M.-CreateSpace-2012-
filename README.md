@@ -11,6 +11,8 @@ All the snippets are written in Python 3 and tested in **Jupyter notebooks**.
 - [Solutions Chapter 2 – Computational Physics](https://github.com/campos28/Solutions-to-Computational-Physics-2nd.-ed.---Newman-M.-CreateSpace-2012-/blob/main/newman_cp_solutions_chapter2.ipynb)
 - [Solutions Chapter 3 – Computational Physics](https://github.com/campos28/Solutions-to-Computational-Physics-2nd.-ed.---Newman-M.-CreateSpace-2012-/blob/main/ch3_sols.ipynb)
 - [Solutions Chapter 4 – Computational Physics](https://github.com/campos28/Solutions-to-Computational-Physics-2nd.-ed.---Newman-M.-CreateSpace-2012-/blob/main/Sols_Ch4.ipynb)
+- [Solutions Chapter 5 – Computational Physics](https://github.com/campos28/Solutions-to-Computational-Physics-2nd.-ed.---Newman-M.-CreateSpace-2012-/blob/main/sols_ch5.ipynb)
+  
 - More chapters coming soon.
 
 ---
