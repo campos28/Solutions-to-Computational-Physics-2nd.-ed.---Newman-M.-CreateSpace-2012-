@@ -6,5 +6,10 @@ This repository contains Python solutions and computational experiments based on
 
 Contents include numerical methods, simulations, and worked examples for self-study.
 
-Repository:
-https://github.com/campos28/Solutions-to-Computational-Physics-2nd.-ed.---Newman-M.-CreateSpace-2012-/
+## Repository
+
+You can access all files, notebooks, and scripts in the GitHub repository:
+
+🔗 **[Go to the GitHub repository](https://github.com/campos28/Solutions-to-Computational-Physics-2nd.-ed.---Newman-M.-CreateSpace-2012-)**
+
+
