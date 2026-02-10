@@ -1,6 +1,6 @@
 # Solutions to *Computational Physics* — Mark Newman (2nd Edition)
 
-This site accompanies the GitHub repository containing **Python 3-based solutions to exercises** inspired by:
+This site accompanies the GitHub repository containing **Python 3-based solutions to exercises** presented in:
 
 🔗 **[Mark Newman, *Computational Physics*, 2nd Edition (CreateSpace, 2012)](https://websites.umich.edu/~mejn/cp2/)**.
 
